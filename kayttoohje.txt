@@ -1,0 +1,8 @@
+Korttipeli spiderette pasianssi 
+
+// Ohjelmoinnin peruskurssin harjoitustyö
+// 26.4.2018
+// Eetu Pulkkinen, opiskelijanumero: 275184
+// eetu.pulkkinen@student.tut.fi
+
+Pasianssin variaatio jossa tarkoituksena kerätä neljä suurimmasta pienimpää (1-13) korttipinoa kortteja siirtelemällä. Kortteja saa laittaa vain suurusjäjestyksessä (isomman kortin päälle saa laittaa vain yhdellä pinemmän kortin). Kun saa kaikki kolmetoista korttia pinoon, ne katoaa pelistä. Tarkoituksena on saada pöytä tyhjäksi, eli pinota neljä pinoa jolloin kaikki kortit ovat hävinneet pöydältä. Pakkaa klikattaessa jokaisee korttipaikkaan (joita on 7) jaetaan yksi kortti oikeinpäin. Pelin voittaa kun pöytä on tyhjä ja häviää kun ei voi enään tehdä yhtään laillista siirtoa ja pakkakin on tyhjä. 
